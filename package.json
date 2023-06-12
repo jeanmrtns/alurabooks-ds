@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "alurabooks-ds",
+  "name": "jeanmrtns-alurabooks-ds",
   "author": "Jean Martins",
   "module": "dist/alurabooks-ds.esm.js",
   "size-limit": [
